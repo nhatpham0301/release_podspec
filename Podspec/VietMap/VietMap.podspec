@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'VietMap'
-    s.version           = '1.0.1'
+    s.version           = '1.0.2'
     s.summary           = 'Vietmap Maps'
     s.homepage          = 'https://vietmap.vn/'
 
@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
     s.platform          = :ios
     # change the source location
-    s.source            = { :git => 'https://github.com/nhatpham0301/release_podspec.git', :tag  => s.version }
+    s.source            = { :git => 'https://github.com/nhatpham0301/release_podspec/blob/main/VietMap.xcframework.zip', :tag  => s.version }
     s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'x86_64 armv7 arm64', 'VALID_ARCHS' => 'x86_64 armv7 arm64'}
     s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'x86_64 armv7 arm64', 'VALID_ARCHS' => 'x86_64 armv7 arm64'}
     s.ios.deployment_target = '10.0'
