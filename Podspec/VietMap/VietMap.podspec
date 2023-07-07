@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 
     s.platform          = :ios
     # change the source location
-    s.source            = { :git => 'https://github.com/vietmap-company/maps-sdk-ios.git', :tag  => s.version }
+    s.source            = { :git => 'git@github.com:nhatpham0301/release_podspec.git', :tag  => s.version }
     s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'x86_64 armv7 arm64', 'VALID_ARCHS' => 'x86_64 armv7 arm64'}
     s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'x86_64 armv7 arm64', 'VALID_ARCHS' => 'x86_64 armv7 arm64'}
     s.ios.deployment_target = '10.0'
