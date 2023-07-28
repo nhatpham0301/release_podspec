@@ -4,12 +4,12 @@ Pod::Spec.new do |s|
     s.summary           = 'Vietmap Maps'
     s.homepage          = 'https://github.com/vietmap-company'
 
-    s.author            = { 'NhatPV' => 'phamvannhat0301@gmail.com' }
+    s.author            = { 'NhatPV' => 'nhatpv@vietmap.vn' }
     s.license = { :type => "MIT", :text => "MIT License" }
 
     s.platform          = :ios
     # change the source location
-    s.source            = { :git => 'https://github.com/nhatpham0301/release_podspec.git', :tag  => s.version }
+    s.source            = { :git => 'https://github.com/nhatpham0301/release_podspec.git' }
     s.ios.deployment_target = '10.0'
     s.ios.vendored_frameworks = 'VietMap.xcframework'
 end 
