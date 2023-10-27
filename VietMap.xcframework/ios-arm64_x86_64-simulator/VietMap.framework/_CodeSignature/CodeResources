@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		YQ1i1sqHEqqT2l480lrsFNs6ZI0=
+		OwSi2EGG4zWGCUTEUmDZ05mlpww=
 		</data>
 		<key>Base.lproj/Foundation.strings</key>
 		<data>
@@ -310,11 +310,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cW99k+fkzFEL7HTaGRMcJ3Iyqyg=
+		cWG+MTZxRuDWhBsVLJckf/Vkhcc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		MGZDkiwoxFjD/rSLRUZMcChDPe4=
+		SJJyxAS+79zdVehjAe4hpnK1I5E=
 		</data>
 		<key>ar.lproj/Foundation.stringsdict</key>
 		<dict>
@@ -1027,21 +1027,13 @@
 	<dict>
 		<key>Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YQ1i1sqHEqqT2l480lrsFNs6ZI0=
-			</data>
 			<key>hash2</key>
 			<data>
-			+N5vSp8Gc4GLGPQruE1iHwhiN+DV6ewEkoQVQdY+z0c=
+			L9ULiAy1tohh0HO6w0AeQ73BVF5L+Yr8eXDK2CLINMI=
 			</data>
 		</dict>
 		<key>Base.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bT/9SAk7O/eXEF/FMKRGAGLwG2I=
-			</data>
 			<key>hash2</key>
 			<data>
 			ivRLhrmSL71NoY6dirUCNPw3k/mh36WowG8jpNrVAIM=
@@ -1049,10 +1041,6 @@
 		</dict>
 		<key>Base.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eG6NQAtP/4fQCOgZowguFT/VnXI=
-			</data>
 			<key>hash2</key>
 			<data>
 			9BVFUXnGMghi4JU9LVGKsTrfpwkojAbDYzUFdKdW/8k=
@@ -1060,10 +1048,6 @@
 		</dict>
 		<key>Headers/MGLAnnotation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KjN9iFhMKgK4S8LWKLOw4E1drjc=
-			</data>
 			<key>hash2</key>
 			<data>
 			KzvSfFESmPTfeFy/G5FXW3g1M2VWDY3JaXLZpkgFfRc=
@@ -1071,10 +1055,6 @@
 		</dict>
 		<key>Headers/MGLAnnotationImage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Tre9ag007ana22lXm7IJ/DmLNDI=
-			</data>
 			<key>hash2</key>
 			<data>
 			obVdVElrxTwUhX/OXsZR/++b3MzuqAE16OkAMMjVD/k=
@@ -1082,10 +1062,6 @@
 		</dict>
 		<key>Headers/MGLAnnotationView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/gj0RBqOojD/2lOOwskjgQzhIEA=
-			</data>
 			<key>hash2</key>
 			<data>
 			1syvjXz3CetictfseYEEeHbT2r+jQ7isdkccZNU1kcI=
@@ -1093,10 +1069,6 @@
 		</dict>
 		<key>Headers/MGLAttributedExpression.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			V9VmhPk7ZFsLT6/e5kqDvTZK5cs=
-			</data>
 			<key>hash2</key>
 			<data>
 			EZhH4NsuiiL2qUZXPR9mABIHCao7dDv5YRUi/Gr7mRs=
@@ -1104,10 +1076,6 @@
 		</dict>
 		<key>Headers/MGLAttributionInfo.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v5EotO5a6eGmNMeeWCOdYE5cuDU=
-			</data>
 			<key>hash2</key>
 			<data>
 			D2vSbwGYYTMgchuw+On4KB/DyKpFiB2ncb5nyuJD3EE=
@@ -1115,10 +1083,6 @@
 		</dict>
 		<key>Headers/MGLBackgroundStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qBygNhSs4qKjvVkzRkjRWsNG94w=
-			</data>
 			<key>hash2</key>
 			<data>
 			w2xknJvPE6ynSchLfvKPsG2VMgq64VW/ZLp9gKdG/GI=
@@ -1126,10 +1090,6 @@
 		</dict>
 		<key>Headers/MGLCalloutView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KRinCKdtC/iRJaQrWVAFbrkuYi8=
-			</data>
 			<key>hash2</key>
 			<data>
 			lmXxHdQn9bUnVh6iJiUviiTgSpgOw1DyD3FaoUoa2FA=
@@ -1137,10 +1097,6 @@
 		</dict>
 		<key>Headers/MGLCameraChangeReason.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			T4ZtcAtNoM8RiFr4OI9nxpDQzBM=
-			</data>
 			<key>hash2</key>
 			<data>
 			5YPt76WkttEehFuC834YBgVWJ1cVMUxXFr1DPKufVlU=
@@ -1148,10 +1104,6 @@
 		</dict>
 		<key>Headers/MGLCircleStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nM8Pja27X0iIOgQ5EqIGwTwXmLU=
-			</data>
 			<key>hash2</key>
 			<data>
 			MlIHQzTQx3iY65kU2h1jlwkGcJ/dp6IyGxGK6tt7COI=
@@ -1159,10 +1111,6 @@
 		</dict>
 		<key>Headers/MGLClockDirectionFormatter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oMDsrM+ogjb6F+OyjNiGty6QtY8=
-			</data>
 			<key>hash2</key>
 			<data>
 			DfYF++YmFZ+wEBUDCmTIQiGEplRFqXOJyTf5piN/IJc=
@@ -1170,10 +1118,6 @@
 		</dict>
 		<key>Headers/MGLCluster.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SMRvJftzi7PwYQvaXChTGFX0CAc=
-			</data>
 			<key>hash2</key>
 			<data>
 			5jCniyuWku/pVotFF98R7VbX0+Rb/8vwBeeDSJNM4Fs=
@@ -1181,10 +1125,6 @@
 		</dict>
 		<key>Headers/MGLCompassButton.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eZtgPlBurtuLSUdXNzU7X+sirT8=
-			</data>
 			<key>hash2</key>
 			<data>
 			wBB9MPE7E9polOtsIa3JFTX9zI+kDJv1grX8l2tBLEI=
@@ -1192,10 +1132,6 @@
 		</dict>
 		<key>Headers/MGLCompassDirectionFormatter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W/NB2vJ2zlXr5xzmx2nGrGrWoP8=
-			</data>
 			<key>hash2</key>
 			<data>
 			aaSofWCNrrQibl2mdJ0ktsHIlfeSFaQnWM8Q1awUcCU=
@@ -1203,10 +1139,6 @@
 		</dict>
 		<key>Headers/MGLComputedShapeSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			skSvSYwlOBeMJPGrVKdE9P4ebzc=
-			</data>
 			<key>hash2</key>
 			<data>
 			TjvN/elxMJf0LMEV0KACaJXeQ+UVDHCofR+jjm94mj4=
@@ -1214,10 +1146,6 @@
 		</dict>
 		<key>Headers/MGLCoordinateFormatter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3ahJzAu+ym32s61mdtx8w8GulHU=
-			</data>
 			<key>hash2</key>
 			<data>
 			2rftmPfcKkn5ld67zAC/5p4G+1t4q/FwThOOGFATZrc=
@@ -1225,10 +1153,6 @@
 		</dict>
 		<key>Headers/MGLDefaultStyle.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			K8nSET6JmhZakm43iQpnTgEYaMg=
-			</data>
 			<key>hash2</key>
 			<data>
 			0nL4HTo25WOeabuKPKhm8aI3BxElKbIB7DYwog4thZs=
@@ -1236,10 +1160,6 @@
 		</dict>
 		<key>Headers/MGLDistanceFormatter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MppCT5jU99+mgUe4UCDnXbMjy+0=
-			</data>
 			<key>hash2</key>
 			<data>
 			B2Sbtz+EcnNGYBfEuKVU5RFvGhmmndhy6Jj5LGJYIfo=
@@ -1247,10 +1167,6 @@
 		</dict>
 		<key>Headers/MGLFeature.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P19FWyYWEMCUXZMTX9AuBuOBp+I=
-			</data>
 			<key>hash2</key>
 			<data>
 			Tswckz8otOL0MsQ8JgFD95z8ARBX++3rohzpqnWb+7k=
@@ -1258,10 +1174,6 @@
 		</dict>
 		<key>Headers/MGLFillExtrusionStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2W43C5XWhk6zRRrTNuDwnlco+kQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			cKDG7iN0Sui1d3hweOxRuNuUQ/pSIKroAkXfjr0PvJg=
@@ -1269,10 +1181,6 @@
 		</dict>
 		<key>Headers/MGLFillStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VdhpxUYi4sRnpjbZNPvvF5Mm/ng=
-			</data>
 			<key>hash2</key>
 			<data>
 			G6rKi40nv9o0LdodXw21sT241ALe01IVeuSGHffSjbc=
@@ -1280,10 +1188,6 @@
 		</dict>
 		<key>Headers/MGLForegroundStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			U9dakxNukG/KIJU8JbtbUXeodc0=
-			</data>
 			<key>hash2</key>
 			<data>
 			oe0IKgDCogLe5YZrT2Bwbty7uSlkHfbZZBp808WT8m8=
@@ -1291,10 +1195,6 @@
 		</dict>
 		<key>Headers/MGLFoundation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			IJ4Fu77pwrixp99jh0tIjaXd2NE=
-			</data>
 			<key>hash2</key>
 			<data>
 			MJJjmPrlOQUhmPFHdZBU9e2gFBRpLuJVqomO3ncTSsI=
@@ -1302,10 +1202,6 @@
 		</dict>
 		<key>Headers/MGLGeometry.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Bae9pesx/wJAoAtBsqzaPDxp2Uk=
-			</data>
 			<key>hash2</key>
 			<data>
 			Kc37zEpeU8OHwi552tfhbymo/ezftyX+9+zLhCRwcTE=
@@ -1313,10 +1209,6 @@
 		</dict>
 		<key>Headers/MGLHeatmapStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZKwZ+tB2MkKbGtV2cDEJfIxrU5s=
-			</data>
 			<key>hash2</key>
 			<data>
 			BaQWRztsVmwAL2M7hUBi5cD5wwWD2OV3o0SXA2MWwdM=
@@ -1324,10 +1216,6 @@
 		</dict>
 		<key>Headers/MGLHillshadeStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3zzBT4Yt9aPRhLzG2Hyt1w7dUS0=
-			</data>
 			<key>hash2</key>
 			<data>
 			bDpPBFs1d8EtFfksRvpobx4PWBnqCtj3zCn8G9jfdBQ=
@@ -1335,10 +1223,6 @@
 		</dict>
 		<key>Headers/MGLImageSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kvnUs9nr5Pdj0fsoO/JWfI+qYQg=
-			</data>
 			<key>hash2</key>
 			<data>
 			8xwQfaBM9Wi9WBox5X6KMQBTA7hdlV1YKqN6IMgMKXM=
@@ -1346,10 +1230,6 @@
 		</dict>
 		<key>Headers/MGLLight.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			o0o6rxJMq+srBJCOj298wFv0CXY=
-			</data>
 			<key>hash2</key>
 			<data>
 			IvPFqkSDP82MmtkiIiJorHsOWM60iIEHLWFRqB6XBIk=
@@ -1357,10 +1237,6 @@
 		</dict>
 		<key>Headers/MGLLineStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Pgane6KypmdM+3cDTe1wO8UoG70=
-			</data>
 			<key>hash2</key>
 			<data>
 			fVi5vTNPhTZSV2LEm2Q4NTUodshw4IDXMr2a/Md/Kvo=
@@ -1368,10 +1244,6 @@
 		</dict>
 		<key>Headers/MGLLocationManager.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Opzh69Zm4LYYqdgdGUWema5N1uU=
-			</data>
 			<key>hash2</key>
 			<data>
 			OBK1y4vEXyJzk8aDit2ky/StOhG/FZZMfmIQPj6VDWI=
@@ -1379,10 +1251,6 @@
 		</dict>
 		<key>Headers/MGLLoggingConfiguration.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1bFG/ldUGnav/eOc8u+ctb0W85A=
-			</data>
 			<key>hash2</key>
 			<data>
 			aB4/sODczKXMDPIbah3dYz1dr8S6T3Ntv2Fvf7ZBP9Y=
@@ -1390,10 +1258,6 @@
 		</dict>
 		<key>Headers/MGLMapCamera.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UaIoRaGWNZag57nJK9JI2FiWV3Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			LzQnZ9dUZX+1S8wu0ZdDp4rq9RAkEU0lh8sVqXN+7JE=
@@ -1401,10 +1265,6 @@
 		</dict>
 		<key>Headers/MGLMapProjection.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kTrKM8X2+LgtwrhvhRU6KiRNJ20=
-			</data>
 			<key>hash2</key>
 			<data>
 			s/nLIebGikS6zF85GWTk/MQWGRyAYb8BTAmIWW8cHmU=
@@ -1412,10 +1272,6 @@
 		</dict>
 		<key>Headers/MGLMapSnapshotter.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9Z0PCjj1wRI8Ohh7PqiBsNUZV24=
-			</data>
 			<key>hash2</key>
 			<data>
 			QE2UOjXjg0mdgBV/eK8W7z4DSiL0ZIpD+xDh2FMsF9I=
@@ -1423,10 +1279,6 @@
 		</dict>
 		<key>Headers/MGLMapView+IBAdditions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kGYc7XLCE8el7XeOvHYTkJRLiIE=
-			</data>
 			<key>hash2</key>
 			<data>
 			yxp3K+xH338x0DMtVCcwfvOYxdHdsFdv2Z9ARkOmanc=
@@ -1434,10 +1286,6 @@
 		</dict>
 		<key>Headers/MGLMapView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pF0AbACSYzF/3yd1/rPEWvhcYZU=
-			</data>
 			<key>hash2</key>
 			<data>
 			fnhTK2p70UHdIk6BLeWZcrwNLtCczrWWvaNCvkfwGcE=
@@ -1445,10 +1293,6 @@
 		</dict>
 		<key>Headers/MGLMapViewDelegate.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jEoMRJns2yutvfUHNfVTkDccQXE=
-			</data>
 			<key>hash2</key>
 			<data>
 			716/HPOXWYRkyvRMlSAvup4t3jA3QHTdI5Uwkkc+IYY=
@@ -1456,10 +1300,6 @@
 		</dict>
 		<key>Headers/MGLMultiPoint.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5Y1rB03UkHlS0BqU/vdkOoFoAAc=
-			</data>
 			<key>hash2</key>
 			<data>
 			qjkjqXOPdCHD9Mf5gNyww1r49SxAOS7ohN0mBQV88gA=
@@ -1467,10 +1307,6 @@
 		</dict>
 		<key>Headers/MGLNetworkConfiguration.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yAyESQHZg8AufwjQiU6J5x9KGdg=
-			</data>
 			<key>hash2</key>
 			<data>
 			dZ6tH3GnJhXOr8okGrO/ZMfaJ6/Xsf3IYdfwJuuIBjs=
@@ -1478,10 +1314,6 @@
 		</dict>
 		<key>Headers/MGLOfflinePack.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fW7EfuxxUrZCsO6X0isPs5fi29o=
-			</data>
 			<key>hash2</key>
 			<data>
 			5mYG5rAVNE2r729iZOYJJQKogRTPrW8HALZxWrQjpGI=
@@ -1489,10 +1321,6 @@
 		</dict>
 		<key>Headers/MGLOfflineRegion.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YicGWpGUYYnp+LUUAymgpfd/lcQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ixk8qpfWU+dXGVJ9koWBhcgh+J55UA61bUBSg5sJxvs=
@@ -1500,10 +1328,6 @@
 		</dict>
 		<key>Headers/MGLOfflineStorage.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ds3319A6xddQBuyrh9AHNW01L74=
-			</data>
 			<key>hash2</key>
 			<data>
 			/KFmmTkK2XCxnl0yCoF0aH97+MOWZkvTpCgSvTzIxow=
@@ -1511,10 +1335,6 @@
 		</dict>
 		<key>Headers/MGLOpenGLStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			U82K8phA4FTVEZyVBfO1lz5mhqY=
-			</data>
 			<key>hash2</key>
 			<data>
 			T3ReqFWtrlzyOkFebpS4qpqneawz3qUxf/2C99PWSE0=
@@ -1522,10 +1342,6 @@
 		</dict>
 		<key>Headers/MGLOverlay.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LZKNpi5G0tVr8Ig7UYooiZqKpnA=
-			</data>
 			<key>hash2</key>
 			<data>
 			oZ5nziMhPImyQcGmNXiypEZsaJvIW4ll1Ql7cNAhD/g=
@@ -1533,10 +1349,6 @@
 		</dict>
 		<key>Headers/MGLPointAnnotation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Zt6hNuYUx6mYcmrdQQwCM8RIFe4=
-			</data>
 			<key>hash2</key>
 			<data>
 			rPQBSy+w7btcLknJf/9EO25A5/OYJeqoSdppqb+vAiA=
@@ -1544,10 +1356,6 @@
 		</dict>
 		<key>Headers/MGLPointCollection.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LWlKYw+mq2Wr1dZ9nC2K0nCVVgc=
-			</data>
 			<key>hash2</key>
 			<data>
 			FM0CPwS6AusXNCgcoUd02uiv9sfYe5Dz39IVVOTLTbk=
@@ -1555,10 +1363,6 @@
 		</dict>
 		<key>Headers/MGLPolygon.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			j7TPeLMkipuZ+D/ywkZM/+qD3m4=
-			</data>
 			<key>hash2</key>
 			<data>
 			3X+BG5tsgThpIHtdnIBDr3yIAhJbmXbiqyKL8TbXEcA=
@@ -1566,10 +1370,6 @@
 		</dict>
 		<key>Headers/MGLPolyline.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qKx/O4P+sUJUwNlowQb5AJ3xJUQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y3nj2dvVgXhXONDvhKYkvwjir78gSrUrwEAzQxJUJeE=
@@ -1577,10 +1377,6 @@
 		</dict>
 		<key>Headers/MGLRasterDEMSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			J0OPF+CPQPNliWpCZHbeTHGnO+M=
-			</data>
 			<key>hash2</key>
 			<data>
 			VndAIJOrKg2AIwoJbRm+Q63N+8ahM3e0ux+Cx9Q3aSI=
@@ -1588,10 +1384,6 @@
 		</dict>
 		<key>Headers/MGLRasterStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WNQN99k5JrAkj3wXKZ1EjbYmVHk=
-			</data>
 			<key>hash2</key>
 			<data>
 			Dv0oP0PIgHo3fRaqqHAjXLmMESkewgNkmZn8Ko5Dw2E=
@@ -1599,10 +1391,6 @@
 		</dict>
 		<key>Headers/MGLRasterTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zFw5TKz1s6fjtqxKk1Ui+yQfLbk=
-			</data>
 			<key>hash2</key>
 			<data>
 			KcuBZ1mExUUiB/vEE1yhKu04NIwXTZFtK1lBAFdeAf0=
@@ -1610,10 +1398,6 @@
 		</dict>
 		<key>Headers/MGLSettings.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ywnwyVblyFOEdq8FtpUY5keXt+A=
-			</data>
 			<key>hash2</key>
 			<data>
 			u8QABXNsQvSDRk/SVhgHcEb02i197xkAH35NGFuOgpw=
@@ -1621,10 +1405,6 @@
 		</dict>
 		<key>Headers/MGLShape.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0BHnlQeYh/MauJmzZL8Kj2zMYkU=
-			</data>
 			<key>hash2</key>
 			<data>
 			AgyugN3TZTLFeePlwe9SywIhMYh6WhFzmRA6u3B3EPA=
@@ -1632,10 +1412,6 @@
 		</dict>
 		<key>Headers/MGLShapeCollection.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8J1jKwxgAmA/WoUleq7qldOKq7Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			9tTyfktH/vEgBdp0ssxRmyCeHo1UB+bsoAlk1OjkMro=
@@ -1643,10 +1419,6 @@
 		</dict>
 		<key>Headers/MGLShapeOfflineRegion.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			19l1lEoB7Xa8uUhPq9dwzImbdik=
-			</data>
 			<key>hash2</key>
 			<data>
 			fG+433z+DUnui5lIyRfl3HMI9pgnPJ9xvKdUkrEUHOQ=
@@ -1654,10 +1426,6 @@
 		</dict>
 		<key>Headers/MGLShapeSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mtEKLJSs6r14wdbzCYHIkNrskOg=
-			</data>
 			<key>hash2</key>
 			<data>
 			g6IZTDg7rqvW2Y2YHfYTGGafobG+5F08fj65jg+rKy0=
@@ -1665,10 +1433,6 @@
 		</dict>
 		<key>Headers/MGLSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tzo8Q8AbwW3Yl0dzh6uCvvRKb5U=
-			</data>
 			<key>hash2</key>
 			<data>
 			IPUDrMRyTkl3dVMiB6VcaMysqHBSuIr9YpVlx5gGfe8=
@@ -1676,10 +1440,6 @@
 		</dict>
 		<key>Headers/MGLStyle.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+kdkr6MYm3x0dyzYLwei1sZEn1k=
-			</data>
 			<key>hash2</key>
 			<data>
 			y8M4fQM8F/RM4dxNBlC99N10GNVjYbyyVSkqeJ1FIP4=
@@ -1687,10 +1447,6 @@
 		</dict>
 		<key>Headers/MGLStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iKiVFCcEKWKD3Vg7uiM7r83vj4s=
-			</data>
 			<key>hash2</key>
 			<data>
 			o453az75zApM4wAHDrnMK2tVV2iLF18WzIwpzVj09Wk=
@@ -1698,10 +1454,6 @@
 		</dict>
 		<key>Headers/MGLStyleValue.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jeq4vRtZs9xNmmFjyI4T6vxmA2M=
-			</data>
 			<key>hash2</key>
 			<data>
 			VMQe7lqf38w0bfamVb4iKVKD5EnC54gTabxIIP3gw9Y=
@@ -1709,10 +1461,6 @@
 		</dict>
 		<key>Headers/MGLSymbolStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PxYBu2ZvBjbGoY7eQotecvCv9SM=
-			</data>
 			<key>hash2</key>
 			<data>
 			peapDgvJepkr5wH4uwNJre8qNCPjhujgXbH0ffS/EWQ=
@@ -1720,10 +1468,6 @@
 		</dict>
 		<key>Headers/MGLTilePyramidOfflineRegion.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tcINXV4kLy0IlB83CjED7Q200LY=
-			</data>
 			<key>hash2</key>
 			<data>
 			nOL/ol+PS3bQCs3XuzuSoB2jji3B3y86ZOAPoykGCWM=
@@ -1731,10 +1475,6 @@
 		</dict>
 		<key>Headers/MGLTileServerOptions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			EHu09olcrdnjFyfJ4QYQoMf/cqY=
-			</data>
 			<key>hash2</key>
 			<data>
 			sGTFeAISBrLwzfmpOlQlJFzEJS4n7fbmDR1lp7ljrFc=
@@ -1742,10 +1482,6 @@
 		</dict>
 		<key>Headers/MGLTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7QsTyBl/Aecog1gQiReJhNWQ7v8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Dnd4CRtTTet80cwnhAD5zVt3O3OPfQgqGb78pBn7SWM=
@@ -1753,10 +1489,6 @@
 		</dict>
 		<key>Headers/MGLTypes.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wE7qfFlaQP5dko/RNZOY/N1BmZ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			lwmPM/PfHbjISJse1JcFPiUsYSiOPqsDMHY5Bq1Qw+c=
@@ -1764,10 +1496,6 @@
 		</dict>
 		<key>Headers/MGLUserLocation.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			scpBMcv2XQihranUpFKeOqv1340=
-			</data>
 			<key>hash2</key>
 			<data>
 			SnjjWWKfpqJGTACxOEqh2TfeA3W1VzqJNqawnq2mtYc=
@@ -1775,10 +1503,6 @@
 		</dict>
 		<key>Headers/MGLUserLocationAnnotationView.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6g4ePyefxq1QoBEEOrilPXjXhPo=
-			</data>
 			<key>hash2</key>
 			<data>
 			unmprfsAYgvq4NKLDjg5VhAFx+0HwpOpYj9+wLlQDYs=
@@ -1786,10 +1510,6 @@
 		</dict>
 		<key>Headers/MGLUserLocationAnnotationViewStyle.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Q5sUT+xgQLM7POB5REpSEISTP7k=
-			</data>
 			<key>hash2</key>
 			<data>
 			vxJZh1e3VCgpW87/+sW6JCiM1txjFYfy7k7ioigV9Ks=
@@ -1797,10 +1517,6 @@
 		</dict>
 		<key>Headers/MGLVectorStyleLayer.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			evoMVdvYeMMAZmkCMi6ChC1BUNo=
-			</data>
 			<key>hash2</key>
 			<data>
 			MstF+J0HTBaoaf3djkKK4n3cfKwOnNLhH5d2FgTnScw=
@@ -1808,10 +1524,6 @@
 		</dict>
 		<key>Headers/MGLVectorTileSource.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QaY3pSwHsJaUpexW5UxRz/TfarE=
-			</data>
 			<key>hash2</key>
 			<data>
 			0cdFSNVVLFN1L4nTi693n7kQhOPIKOSqvdxEseZbrjk=
@@ -1819,10 +1531,6 @@
 		</dict>
 		<key>Headers/NSExpression+MGLAdditions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hSo6nLfJgVDu3ILbrZJZFnpo6QM=
-			</data>
 			<key>hash2</key>
 			<data>
 			yqCmfplAH1nkLuPVVcUNEifjaGsdbTSsPkYKbHSo0I0=
@@ -1830,10 +1538,6 @@
 		</dict>
 		<key>Headers/NSPredicate+MGLAdditions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PEMS1BEEUY4CWhiT4UKv9d+EEco=
-			</data>
 			<key>hash2</key>
 			<data>
 			xOPYXd/s8D1sk5CdFv3usk6uCXonmr/Gt7i6aJkm3xo=
@@ -1841,10 +1545,6 @@
 		</dict>
 		<key>Headers/NSValue+MGLAdditions.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5TKCXdya1f+YJ298GpI+U6PGstQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			+0XX9SXeQWYlAZZZrGXwawy+9uim+BarFkHhan8GsKE=
@@ -1852,10 +1552,6 @@
 		</dict>
 		<key>Headers/VietMap.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6f78iyYyYdqY7Jl09fdSkJ4pwBM=
-			</data>
 			<key>hash2</key>
 			<data>
 			z80ifwWJLvtl+SIv4NuLm6yHTO2zD6Bo3qIKbUF0fEs=
@@ -1863,21 +1559,13 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MGZDkiwoxFjD/rSLRUZMcChDPe4=
-			</data>
 			<key>hash2</key>
 			<data>
-			6JghDzL7TKU0ZmnSsjW3pD3wdf+1F6rvnUjp0GauCUw=
+			+BJ9bNTaAmtqvago+F7uORgNeyJRrNMGZUyyQUgy3vk=
 			</data>
 		</dict>
 		<key>ar.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			w2owO8W64ord6dkSRsz+jj5KQM0=
-			</data>
 			<key>hash2</key>
 			<data>
 			/AWStvUVqrtfOAnbjoRJT0F6CJcI/2j4IJuNycq49Eg=
@@ -1887,10 +1575,6 @@
 		</dict>
 		<key>ar.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kW98u4187ZUQuuwf0tCCDiomn7M=
-			</data>
 			<key>hash2</key>
 			<data>
 			itNxaW2iy2dza8EQKi8XWMeYfa6pGmb44+9MeO/Jf5U=
@@ -1900,10 +1584,6 @@
 		</dict>
 		<key>bg.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0skffxe+OJWH3iegj3plf86fhKY=
-			</data>
 			<key>hash2</key>
 			<data>
 			QLxiMhrVZqUPynG0nKu6SK8Hs8QLY0shgC4zxiQNGTI=
@@ -1913,10 +1593,6 @@
 		</dict>
 		<key>bg.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mO4rHPWihItlEWLAQNcDgw9VyeI=
-			</data>
 			<key>hash2</key>
 			<data>
 			adjQWUE8B9EBEyV8nO3oWKr3zlyQwaa5LkT5THmxP7I=
@@ -1926,10 +1602,6 @@
 		</dict>
 		<key>bg.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pJ5cnKSQw1AWE5J03zlafvRJpaY=
-			</data>
 			<key>hash2</key>
 			<data>
 			4oueWZkHtgVB0+MkUS9do2NlmiPn1vLPAFDKC/pEVFo=
@@ -1939,10 +1611,6 @@
 		</dict>
 		<key>bg.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			myUb1d4kXntpUVL7NDM9Ci0LOrM=
-			</data>
 			<key>hash2</key>
 			<data>
 			l44/ZMVhiZv9hgGos3UxxOSD+XxNcyJlTPfVF0R5gTM=
@@ -1952,10 +1620,6 @@
 		</dict>
 		<key>ca.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ltqU4xuNlu1mxgH7qvKwoiUCwfQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			wWZ07C7BcnzVwDna3VTOTkilYnv13tG9IytyB2hyFlE=
@@ -1965,10 +1629,6 @@
 		</dict>
 		<key>ca.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5bOCdOQS/Y4G0DQ8eKW3anu00xQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			jYcp+3hr8145G+CnHBgLnblOMgv5nSgguV2ihbFzyv4=
@@ -1978,10 +1638,6 @@
 		</dict>
 		<key>ca.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vmez3VHS/QP1ncezx8xk0jqGgIo=
-			</data>
 			<key>hash2</key>
 			<data>
 			E4zjTM6+rDiviYu1GtqTFslphGgPPezEvqY5E+2bfAc=
@@ -1991,10 +1647,6 @@
 		</dict>
 		<key>ca.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nOUVYgHkOUWYXAto8n9keW00drw=
-			</data>
 			<key>hash2</key>
 			<data>
 			3W5xvWqkhFDlc1gbgRqBAYvB4NnF/8XUAFBPHiN5h6Y=
@@ -2004,10 +1656,6 @@
 		</dict>
 		<key>cs.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bT/9SAk7O/eXEF/FMKRGAGLwG2I=
-			</data>
 			<key>hash2</key>
 			<data>
 			ivRLhrmSL71NoY6dirUCNPw3k/mh36WowG8jpNrVAIM=
@@ -2017,10 +1665,6 @@
 		</dict>
 		<key>cs.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UggkBZ0M9SvLZK8JaIKfDbeAU0Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			7y0jdwBYhTGLy+ibkiXhm/cbsz7tHDxc0NPpAfpPHfQ=
@@ -2030,10 +1674,6 @@
 		</dict>
 		<key>cs.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tpKXvf44Oid5ei+joxsHdV2Jqvk=
-			</data>
 			<key>hash2</key>
 			<data>
 			D6mFxpO0ZgfcBJVV18XWCEcj+KpOCi29cqWNczf+GAg=
@@ -2043,10 +1683,6 @@
 		</dict>
 		<key>cs.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NhLLb39TzJMmR9FzH2UzX0+K4Ww=
-			</data>
 			<key>hash2</key>
 			<data>
 			ueGGBkkJC69+BOC2Ep2lMOBMOTdnbMVCx7oYF0JoO8s=
@@ -2056,10 +1692,6 @@
 		</dict>
 		<key>da.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pprRhiy3Sto35FXFA1VV2+j4Rtg=
-			</data>
 			<key>hash2</key>
 			<data>
 			1IlZKgu7eCOvMkQEEj9TxnuGQvxI/rx5oV01db4DsGE=
@@ -2069,10 +1701,6 @@
 		</dict>
 		<key>da.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Xxesjvq+fsVuu67UIeqJs1AMJR4=
-			</data>
 			<key>hash2</key>
 			<data>
 			k1WaP5G1CGhUo+PnKo1PZfYHzSscVa2jVWDIcQRzk7o=
@@ -2082,10 +1710,6 @@
 		</dict>
 		<key>da.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			e7uxiOmy3fLQTb9WkUngTTceVLk=
-			</data>
 			<key>hash2</key>
 			<data>
 			/khzbW4JcbNMQMy8DBrcdBZc/NwJVoYaEzoUhmuIQB8=
@@ -2095,10 +1719,6 @@
 		</dict>
 		<key>da.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a/lro8C8SUk3RQjlYG5YsSIvybQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			UfesfX/0TJTGa2u2aAry+GTmRRWFpSlkBnFmZpInV94=
@@ -2108,10 +1728,6 @@
 		</dict>
 		<key>de.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			/2wetdeGtRjWLLCDu4gfy1llnCY=
-			</data>
 			<key>hash2</key>
 			<data>
 			JA5JuIh1GxmHJhOnNlJICLJ4+uij+2lO43fPQecqo90=
@@ -2121,10 +1737,6 @@
 		</dict>
 		<key>de.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			tktu2+2IZHnRISxOGrAIOmbPnuc=
-			</data>
 			<key>hash2</key>
 			<data>
 			dmBjhQN0SBgINsNTdg4aUwuQB7q07vrSMECM73mX4FU=
@@ -2134,10 +1746,6 @@
 		</dict>
 		<key>de.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			gyKHJRzk9CFEEr2vko9kkO18p40=
-			</data>
 			<key>hash2</key>
 			<data>
 			bZNGf+VvA5/E5TJTq7fcc2LF0aoWjJIIwHb8HpTgLTs=
@@ -2147,10 +1755,6 @@
 		</dict>
 		<key>de.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iWMdhs7S7FHqpC0Nb6OLkxVMa+c=
-			</data>
 			<key>hash2</key>
 			<data>
 			d4yReBjHEYMhqubVz1OR/4eG4wCs5bNbKDhocXxAA9Y=
@@ -2160,10 +1764,6 @@
 		</dict>
 		<key>en.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UggkBZ0M9SvLZK8JaIKfDbeAU0Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			7y0jdwBYhTGLy+ibkiXhm/cbsz7tHDxc0NPpAfpPHfQ=
@@ -2173,10 +1773,6 @@
 		</dict>
 		<key>en.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NhLLb39TzJMmR9FzH2UzX0+K4Ww=
-			</data>
 			<key>hash2</key>
 			<data>
 			ueGGBkkJC69+BOC2Ep2lMOBMOTdnbMVCx7oYF0JoO8s=
@@ -2186,10 +1782,6 @@
 		</dict>
 		<key>es.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iE8TaW/WI5k7nzJveans4k99rYw=
-			</data>
 			<key>hash2</key>
 			<data>
 			G2rmtiL+z1k3880w5lWmEPqPI6E9tkI1c9+lsWB7310=
@@ -2199,10 +1791,6 @@
 		</dict>
 		<key>es.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iJisCu8wrPEjo2ORnpbI3l7efJU=
-			</data>
 			<key>hash2</key>
 			<data>
 			CCReE/y+L9cmpsrT0+RxyHbh/fIwlaojeYPor5tAMHk=
@@ -2212,10 +1800,6 @@
 		</dict>
 		<key>es.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bziKiqpsUykoFmdf6ZDKk7qOsjk=
-			</data>
 			<key>hash2</key>
 			<data>
 			WhrJV0B/ierMVB4S7dlsM0HUpc7lx0Z9V2/xLcN/flI=
@@ -2225,10 +1809,6 @@
 		</dict>
 		<key>es.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			j6kdzJp16cVluqCSgSv823P6SvE=
-			</data>
 			<key>hash2</key>
 			<data>
 			q08vuAayk6BlR4qP26x7eLDlTWbY+rNgzZ5R6YSO+iU=
@@ -2238,10 +1818,6 @@
 		</dict>
 		<key>fr.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TR5bMB15ZAY9AWcHZmDtkwgachM=
-			</data>
 			<key>hash2</key>
 			<data>
 			68I8+R/C/jl6XqLyLmLBdyh/kgnWBzGe1fbraShXywA=
@@ -2251,10 +1827,6 @@
 		</dict>
 		<key>fr.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WjGgD0VU8uQuYPPGJlBcCAOokAc=
-			</data>
 			<key>hash2</key>
 			<data>
 			dpPCS0HG8OVJXyJQ5vUN12lvIYu92kNKK0eg/bZACZI=
@@ -2264,10 +1836,6 @@
 		</dict>
 		<key>fr.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n5YsW5SwxEweEj2sJuJHPNj8y84=
-			</data>
 			<key>hash2</key>
 			<data>
 			PNdNGLxdKLvYAqt+W3l7BgT++bDn+YlB0eh+bAYjrCM=
@@ -2277,10 +1845,6 @@
 		</dict>
 		<key>gl.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lJw45dexaNqwJUhG3Dfqx7xQcfA=
-			</data>
 			<key>hash2</key>
 			<data>
 			1j+RvuVXBce+YPtkVUP1kygkzEHhWwqb/ixJf18RhmI=
@@ -2290,10 +1854,6 @@
 		</dict>
 		<key>gl.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4ko9vwyzqR/83BKqHZG8gb/aTmk=
-			</data>
 			<key>hash2</key>
 			<data>
 			DmCdzv7RmR/Ohyp2btHr9wGxZH1rL0O7owZ83SdD/SQ=
@@ -2303,10 +1863,6 @@
 		</dict>
 		<key>gl.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			NCTtNREw0TCV8PipXMD6rFulbWA=
-			</data>
 			<key>hash2</key>
 			<data>
 			niECPg+acy6K6btbjBKI8n4Dcanp7rTYxElRM/QV8OQ=
@@ -2316,10 +1872,6 @@
 		</dict>
 		<key>gl.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pqMIcrzbu65aIsaCR9SDmgwcdbY=
-			</data>
 			<key>hash2</key>
 			<data>
 			9txFRw6uIKVPeqByROwz4zZAkuLVIxdmLq4bu+Jts54=
@@ -2329,10 +1881,6 @@
 		</dict>
 		<key>he.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			JCM89jstaV/S5vFMsi1y/qi7bV0=
-			</data>
 			<key>hash2</key>
 			<data>
 			8bqAPU18VAaCeP5O3FFxUgs54SyG+za/cs/9bXiWewk=
@@ -2342,10 +1890,6 @@
 		</dict>
 		<key>he.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			P+2XqWn4rQv8PfRM3makM409+qY=
-			</data>
 			<key>hash2</key>
 			<data>
 			XUa/ksI8SgBnlx4OMljUAPkIAVlT3Pyijtigt5yRqIg=
@@ -2355,10 +1899,6 @@
 		</dict>
 		<key>hu.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mNjrKTD1DZqZdoLmBv86MO6d0uI=
-			</data>
 			<key>hash2</key>
 			<data>
 			yhnBeHZ6SUY0kNLAcur9rdJIUHmrj+oW383+WJkYU6o=
@@ -2368,10 +1908,6 @@
 		</dict>
 		<key>hu.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UCXxJKKbJmfjjY/6orNcbX2jHtE=
-			</data>
 			<key>hash2</key>
 			<data>
 			RSrjIzST5n/iYYD9dQYUGMr4n3NvMD8tExUZcIak304=
@@ -2381,10 +1917,6 @@
 		</dict>
 		<key>ja.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vAiNWq2BcGz7AEBD2Jh1HR27qjg=
-			</data>
 			<key>hash2</key>
 			<data>
 			L8GZZr+ZMbBWQIcdo2Jy4R5u9xv1TAJICVNoJ7ShCXY=
@@ -2394,10 +1926,6 @@
 		</dict>
 		<key>ja.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f99GGmHvpn0cLYXVAse4Rvi750s=
-			</data>
 			<key>hash2</key>
 			<data>
 			ngBg13HDm4N/87NdMAOfdkDjgAqwFA7rH1kBNA27bqE=
@@ -2407,10 +1935,6 @@
 		</dict>
 		<key>ko.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8s/5xCL8hnxCRcWQNI9RzH1XBsc=
-			</data>
 			<key>hash2</key>
 			<data>
 			xjzx7TLKzZte4RLpFcboZVQCTURmHtfhtKzTI0yAA8k=
@@ -2420,10 +1944,6 @@
 		</dict>
 		<key>ko.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Y6SJz9NyXXSS2xdF9m+QFgedaSQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			kNKBvnaySFL+7bLUie4lvYWKejml+fvZUMgSsPFzObk=
@@ -2433,10 +1953,6 @@
 		</dict>
 		<key>ko.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fehjQLFosdSlHJug6mgzb1Rse+I=
-			</data>
 			<key>hash2</key>
 			<data>
 			oFFTad1HVW/AIFosPX9XT/saT0sQSBxYoZFjWphW+pU=
@@ -2446,10 +1962,6 @@
 		</dict>
 		<key>ko.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PXmjpPiljSyiR2Zp8RNVGyxX1FM=
-			</data>
 			<key>hash2</key>
 			<data>
 			r4KurDtYuPc0yt6mMUhzidJpUEz+yxKDyUHUdit+kNg=
@@ -2459,10 +1971,6 @@
 		</dict>
 		<key>lt.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d4/zVa4luLnhyfCySjAsowpFA+A=
-			</data>
 			<key>hash2</key>
 			<data>
 			aZBVpKje0FWrAO7nBqG3Q6j3NvrOIsbRT6dNeZrHl9o=
@@ -2472,10 +1980,6 @@
 		</dict>
 		<key>lt.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZU3WKeWpQGXQ6ZON6cf7i+3xrxQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			b7TvuutSZZUeBvLouGpTbgA4H4CBTWirEY0C3QNZQlw=
@@ -2485,10 +1989,6 @@
 		</dict>
 		<key>lt.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			m/KgNR/tJo+erM/CUfOK9K/FTAM=
-			</data>
 			<key>hash2</key>
 			<data>
 			6rHjcQCQiv9fCCAQiiFTn0SxRlE+HZrl2poW2FC5uGU=
@@ -2498,10 +1998,6 @@
 		</dict>
 		<key>lt.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MkQCwb4SIplPqg/dtSmsZpegWdg=
-			</data>
 			<key>hash2</key>
 			<data>
 			J/N1Yuo9ilKAOQoQAXJrFrB35NppFUNVMK8i6ggRTxQ=
@@ -2511,10 +2007,6 @@
 		</dict>
 		<key>pl.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fAYGWjHDELgXZpm/ERFRZHQP33M=
-			</data>
 			<key>hash2</key>
 			<data>
 			lyXKy4/Om9PJu88TVCHOqKiBz5DzRoTaZdbQZWKSDHk=
@@ -2524,10 +2016,6 @@
 		</dict>
 		<key>pt-BR.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uFuQEAbUMPTH8uNOtAxVIUgqAvE=
-			</data>
 			<key>hash2</key>
 			<data>
 			sn/S3s58MKj093ZwcERt1F1DMR6VPUWHvbHNLhac7g4=
@@ -2537,10 +2025,6 @@
 		</dict>
 		<key>pt-BR.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mbAh58N/m8fNgzfZKGmUg+TNdmc=
-			</data>
 			<key>hash2</key>
 			<data>
 			ozVFaISMes3X+FJ/Z5ooZPtfrig4D4meike+DUz1iPI=
@@ -2550,10 +2034,6 @@
 		</dict>
 		<key>pt-BR.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			C6E2snj9Ge3LVmPj2rEyUJ9nUPk=
-			</data>
 			<key>hash2</key>
 			<data>
 			f9Xt5humAnJDd1E3DmYInrokjkXmntnedMBa0I/5+9g=
@@ -2563,10 +2043,6 @@
 		</dict>
 		<key>pt-BR.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mFylSdfn9q2rpGNUtyGqvdKas9Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			F7C2NCtWl/UxugMAyvH7vpMCwnKC53/v+1i3Xz4wi2w=
@@ -2576,10 +2052,6 @@
 		</dict>
 		<key>pt-PT.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mbAh58N/m8fNgzfZKGmUg+TNdmc=
-			</data>
 			<key>hash2</key>
 			<data>
 			ozVFaISMes3X+FJ/Z5ooZPtfrig4D4meike+DUz1iPI=
@@ -2589,10 +2061,6 @@
 		</dict>
 		<key>pt-PT.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			b5xL/gvzY55hYBYZgh6LcQp9fBY=
-			</data>
 			<key>hash2</key>
 			<data>
 			tiFn++Ty4dpJPdatuadu++uEYhD4vfGq5sNhh2/D3qk=
@@ -2602,10 +2070,6 @@
 		</dict>
 		<key>pt-PT.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			toHXSOIQjFmLVL+W/Y+wNl69VAg=
-			</data>
 			<key>hash2</key>
 			<data>
 			oiuePfwNUpi1M+c5f9i+G94eSznolH1B88/CtfbSmZo=
@@ -2615,10 +2079,6 @@
 		</dict>
 		<key>ru.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			TNWScZwvPxZ+YO9DfpBgKrF9vBs=
-			</data>
 			<key>hash2</key>
 			<data>
 			Uw9gwm1n+R6bZGJ0/3Da/aWcTKoUg77Flo5QwNyuujo=
@@ -2628,10 +2088,6 @@
 		</dict>
 		<key>ru.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			su0odedJFj9qn9xAjWYrcbXKetk=
-			</data>
 			<key>hash2</key>
 			<data>
 			Le46mTJZaw8Am9JMqz38yOJkD+1BLFNAqLei2F2rFqg=
@@ -2641,10 +2097,6 @@
 		</dict>
 		<key>ru.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			pp0a4gCmvdRT79gNST2nt9C1znc=
-			</data>
 			<key>hash2</key>
 			<data>
 			6ceoH8lhY/1QeZ+THDScG3MoNoHTE7Ti3YvzFME/tAM=
@@ -2654,10 +2106,6 @@
 		</dict>
 		<key>ru.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			280g/DT1iIbPBm14BrpLXsCgvYI=
-			</data>
 			<key>hash2</key>
 			<data>
 			N9Y08qg3N5E+/spor3J7IDThb+hF1oNRJKT3cPQMGk4=
@@ -2667,10 +2115,6 @@
 		</dict>
 		<key>strip-frameworks.sh</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jg9lELZIVgXE6YTsmv0+v2AHIKI=
-			</data>
 			<key>hash2</key>
 			<data>
 			5SFot09NTyUi0DJh2RVbCcvpT/Z7iKdhdxyIrXzr3a8=
@@ -2678,10 +2122,6 @@
 		</dict>
 		<key>sv.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uEqljTkfbqUsNcHE73+KEapeN38=
-			</data>
 			<key>hash2</key>
 			<data>
 			1zbtdafhSYvhKL8LDNNcA3nAlhwEa4dQ/D3BA/rvu0Q=
@@ -2691,10 +2131,6 @@
 		</dict>
 		<key>sv.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RNVqMHUAUdKeov3lNT2xhyQ5OkU=
-			</data>
 			<key>hash2</key>
 			<data>
 			3UzHFDXE5IIxF3CfyjBfnrEmUl8zazKTwopJvRXEHgU=
@@ -2704,10 +2140,6 @@
 		</dict>
 		<key>sv.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			m55cABUMLHObqAtXF108CH1dt64=
-			</data>
 			<key>hash2</key>
 			<data>
 			QpIQa0nLmTp2bMBZzg1DT04dNNz576880DmkDICGzAI=
@@ -2717,10 +2149,6 @@
 		</dict>
 		<key>sv.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fmitVprBdpDMIvRfYA/1VcBEOl4=
-			</data>
 			<key>hash2</key>
 			<data>
 			ZoT6jJMHwldSfp6gEcI8J/aW/jMG7zlajYfY0zhBb88=
@@ -2730,10 +2158,6 @@
 		</dict>
 		<key>uk.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			73L1NO4doj2CYznogeqC5hKXnGQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			VCLFcgUUYy3/6Pn+yaGlKbpjqYZW903sPQtv3hvrZ88=
@@ -2743,10 +2167,6 @@
 		</dict>
 		<key>uk.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6pXyqS4nHPrBaDY9hsRxd+//sUY=
-			</data>
 			<key>hash2</key>
 			<data>
 			Zzd2MU9EezXdLxKkTKDCg9a7xHLx1Ug+dEzEGYsS4jM=
@@ -2756,10 +2176,6 @@
 		</dict>
 		<key>uk.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			mbrj7Osa8Y6oAwJYciKZslA8BbQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			fwOYHubqpD6hD/d/1/sYsfWKaFa+3wIIwlv6FyO2JHc=
@@ -2769,10 +2185,6 @@
 		</dict>
 		<key>uk.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+8n3X/0CWmXIlJj2so7HPQy0l68=
-			</data>
 			<key>hash2</key>
 			<data>
 			NfO4wcf1BnQYsE6v8jKTf0T0lsD2oGTDiUfDTGkeI+k=
@@ -2782,10 +2194,6 @@
 		</dict>
 		<key>vi.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			oYvsaM+DdMo4vSvKop0tNo1RiXA=
-			</data>
 			<key>hash2</key>
 			<data>
 			e+6A842M/jfkOhRzykeqfitzllKsjuKXjzh/7Dc/1g8=
@@ -2795,10 +2203,6 @@
 		</dict>
 		<key>vi.lproj/Foundation.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ldC8M8Z/iWm7wWvJdqvSllJgOYU=
-			</data>
 			<key>hash2</key>
 			<data>
 			GiIZoYdCbziVc65AkB4OrvgSnTPXpdKiDJUGzIToQfA=
@@ -2808,10 +2212,6 @@
 		</dict>
 		<key>vi.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OYu75Ic82vJHTU+Zc2ZHl1eh350=
-			</data>
 			<key>hash2</key>
 			<data>
 			9eHDSwKh8Z+ohEaQlhr9QNi44CSWDrnCgsTFhPaBDh0=
@@ -2821,10 +2221,6 @@
 		</dict>
 		<key>vi.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Ccy9ZTQnXdvnAfd/SNUjNH9uL8Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			na4s0NsQcWtDKXI7inCwwqoe64NAvao81StP0ExVn7w=
@@ -2834,10 +2230,6 @@
 		</dict>
 		<key>zh-Hans.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6QMpBO6GdxLC2czT4U6mVYkn+qs=
-			</data>
 			<key>hash2</key>
 			<data>
 			BufSI6/DelIljoa8u5xP5l3GC/W323iYGVLgtvce6gI=
@@ -2847,10 +2239,6 @@
 		</dict>
 		<key>zh-Hans.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E9i0FhZZFYF39J4/8uqoAnDtOnE=
-			</data>
 			<key>hash2</key>
 			<data>
 			wt264RiY7RQ7M1pQtUiDQM+xro3O+UPl262jXXRRgk4=
@@ -2860,10 +2248,6 @@
 		</dict>
 		<key>zh-Hant.lproj/Foundation.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			6rI1z315Zh5tPee57DsO6Gx6p7A=
-			</data>
 			<key>hash2</key>
 			<data>
 			zqtC1aupJVIy/kc74PI5G2hP0YpTakeBkOa2Oa+UGP4=
@@ -2873,10 +2257,6 @@
 		</dict>
 		<key>zh-Hant.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zRK2BLsnLfzv4jySnPq1biyKdrM=
-			</data>
 			<key>hash2</key>
 			<data>
 			2qBLj9qDlsE/f8wZaV9WqPs33muyHm1Vmhhd2ULR+tU=
@@ -2886,10 +2266,6 @@
 		</dict>
 		<key>zh-Hant.lproj/Localizable.stringsdict</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3pq+lHQBKwh0+ppqVNeq6TELd9E=
-			</data>
 			<key>hash2</key>
 			<data>
 			HO21sfx4ZvIYHLL5viJSGx7sXt+cfQd5ZkapmFBt9WI=
