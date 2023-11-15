@@ -372,7 +372,8 @@ MGL_EXPORT
     customers to display the Mapbox wordmark. If this applies to you, do not
     hide this view or change its contents.
  */
-//@property (nonatomic, readonly) UIImageView *logoView;
+
+@property (nonatomic, readonly) UIImageView *logoView;
 
 /**
  The position of the logo view. The default value is `MGLOrnamentPositionBottomLeft`.

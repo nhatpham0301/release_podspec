@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		OwSi2EGG4zWGCUTEUmDZ05mlpww=
+		dFU28Roc3DpQB5Xo4fLEnE1cDB8=
 		</data>
 		<key>Base.lproj/Foundation.strings</key>
 		<data>
@@ -154,7 +154,7 @@
 		</data>
 		<key>Headers/MGLMapView.h</key>
 		<data>
-		pF0AbACSYzF/3yd1/rPEWvhcYZU=
+		88ziiAehy9r1V/qeIo1jGn/PCmM=
 		</data>
 		<key>Headers/MGLMapViewDelegate.h</key>
 		<data>
@@ -310,7 +310,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		cWG+MTZxRuDWhBsVLJckf/Vkhcc=
+		OVqMSOWx2z5VzP6vIcn49L39PTg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1029,7 +1029,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L9ULiAy1tohh0HO6w0AeQ73BVF5L+Yr8eXDK2CLINMI=
+			fTU7/HolRWqUhLSkLnlBToLmtItGPaTcelSgsS3yme4=
 			</data>
 		</dict>
 		<key>Base.lproj/Foundation.strings</key>
@@ -1288,7 +1288,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fnhTK2p70UHdIk6BLeWZcrwNLtCczrWWvaNCvkfwGcE=
+			niorbVXhQeJJvGzRbVhkdWTw2WZ1IM0Yeg0hDlQvklA=
 			</data>
 		</dict>
 		<key>Headers/MGLMapViewDelegate.h</key>
