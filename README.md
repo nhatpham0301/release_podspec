@@ -12,8 +12,20 @@ make xcframework BUILDTYPE=Release
 ### Push & create new tag match with the changed version
  
 ### Run below terminal 
-```bash
-pod spec lint
 
-pod trunk push
+- Check if you have authentication to cocoapods
+```bash
+pod trunk me`
 ```
+- cd to `Podspec/Vietmap`
+Validate podspec:
+```bash
+cd Podspec/VietMap && pod spec lint --allow-warnings
+```
+Push library
+```bash
+pod trunk push --allow-warnings
+```
+
+### Follow below url to read more info
+https://guides.cocoapods.org/making/getting-setup-with-trunk.html
