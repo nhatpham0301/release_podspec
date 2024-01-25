@@ -8,10 +8,7 @@ jobs:
   build:
     runs-on: macOS-latest
     steps:
-      - uses: actions/checkout@v1
-      - name: cd to podspec file
-        run: |
-          cd Podspec/VietMap
+      - uses: actions/checkout@v1 
       - name: Validate CocoaPod
         env:
           COCOAPODS_TRUNK_TOKEN: ${{ secrets.COCOAPOD_PASSWORD_LOGIN }}
