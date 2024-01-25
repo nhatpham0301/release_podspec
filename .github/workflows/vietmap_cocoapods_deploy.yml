@@ -6,7 +6,7 @@ on:
       
 jobs:
   build:
-    runs-on: macOS-latestgit 
+    runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v1
       - name: cd to podspec file
