@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'VietMap'
-    s.version           = '1.2.1'
+    s.version           = '1.2.2'
     s.summary           = 'Vietmap Maps'
     s.homepage          = 'https://github.com/vietmap-company'
 
