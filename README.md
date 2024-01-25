@@ -11,6 +11,10 @@ make xcframework BUILDTYPE=Release
 
 ### Push & create new tag match with the changed version
  
+### Github action will release new version to cocoapod automatically
+
+# Below guide is old document and only use for manual release. This project is automatically release with github action CICD and don't necessary to follow below work flow
+
 ### Run below terminal 
 
 - Check if you have authentication to cocoapods
