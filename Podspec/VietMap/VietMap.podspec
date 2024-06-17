@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|  
     s.name              = 'VietMap'
-    s.version           = '1.2.2'
+    s.version           = '2.0.0-pre.1'
     s.summary           = 'Vietmap Maps'
-    s.homepage          = 'https://github.com/vietmap-company'
+    s.homepage          = 'https://maps.vietmap.vn'
 
     s.author            = { 'NhatPV' => 'nhatpv@vietmap.vn' }
     s.license = { :type => "MIT", :text => "MIT License" }
