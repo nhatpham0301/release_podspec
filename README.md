@@ -19,7 +19,7 @@ make xcframework BUILDTYPE=Release
 
 - Check if you have authentication to cocoapods
 ```bash
-pod trunk me`
+pod trunk me
 ```
 - cd to `Podspec/Vietmap`
 Validate podspec:
