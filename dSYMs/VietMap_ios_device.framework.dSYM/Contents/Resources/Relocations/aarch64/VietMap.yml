@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     'VietMap.xcframework/ios-arm64/VietMap.framework/VietMap'
+relocations:     []
+...
