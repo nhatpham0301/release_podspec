@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|  
     s.name              = 'VietMap'
-    s.version           = '2.2.0'
+    s.version           = '2.3.0'
     s.summary           = 'Vietmap Maps'
     s.homepage          = 'https://maps.vietmap.vn'
     s.preserve_paths    = '*.xcframework', 'dSYMs/**/*'
