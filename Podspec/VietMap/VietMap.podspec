@@ -5,7 +5,6 @@ Pod::Spec.new do |s|
     s.homepage          = 'https://maps.vietmap.vn'
     s.preserve_paths    = 'dSYMs/*.zip'
 
-
     s.author            = { 'NhatPV' => 'nhatpv@vietmap.vn' }
     s.license = { :type => "MIT", :text => "MIT License" }
 
