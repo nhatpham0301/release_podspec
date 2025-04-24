@@ -1,10 +1,19 @@
 Pod::Spec.new do |s|  
     s.name              = 'VietMap'
-    s.version           = '2.4.1'
+    s.version           = '2.4.2'
     s.summary           = 'Vietmap Maps'
     s.homepage          = 'https://maps.vietmap.vn'
     s.preserve_paths    = 'dSYMs/*.zip'
 
+      # Nếu người dùng muốn lấy dSYM, hỗ trợ export nó
+    s.resource_bundles = {
+        'VietMap-dSYMs' => ['dSYMs/*.zip', 'dSYMs/*.framework.dSYM']
+    }
+    s.xcconfig = {
+        'STRIP_INSTALLED_PRODUCT' => 'NO',
+        'STRIP_STYLE' => 'non-global',
+        'DEAD_CODE_STRIPPING' => 'NO'
+    }
     s.author            = { 'NhatPV' => 'nhatpv@vietmap.vn' }
     s.license = { :type => "MIT", :text => "MIT License" }
 
