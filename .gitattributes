@@ -1,1 +1,2 @@
 *.dSYM filter=lfs diff=lfs merge=lfs -text
+dSYMs/VietMap_ios_device.framework.dSYM/Contents/Resources/DWARF/VietMap_ios_device filter=lfs diff=lfs merge=lfs -text
