@@ -3,11 +3,11 @@ Pod::Spec.new do |s|
     s.version           = '2.9.1'
     s.summary           = 'Vietmap Maps'
     s.homepage          = 'https://maps.vietmap.vn'
-    s.preserve_paths    = 'dSYMs/*.framework.dSYM'
+    s.preserve_paths    = 'dSYMs/VietMap.framework.dSYM'
 
       # Nếu người dùng muốn lấy dSYM, hỗ trợ export nó
     s.resource_bundles = {
-        'VietMap-dSYMs' => ['dSYMs/*.framework.dSYM']
+        'VietMap-dSYMs' => ['dSYMs/VietMap.framework.dSYM']
     }
     s.xcconfig = {
         'STRIP_INSTALLED_PRODUCT' => 'NO',
