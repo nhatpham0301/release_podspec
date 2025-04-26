@@ -13,9 +13,9 @@ jobs:
         env:
           COCOAPODS_TRUNK_TOKEN: ${{ secrets.COCOAPOD_PASSWORD_LOGIN }}
         run: |
-          pod spec lint Podspec/VietMap/VietMap.podspec --allow-warnings
+          pod spec lint VietMap.podspec --allow-warnings
       - name: Publish to CocoaPod register
         env:
           COCOAPODS_TRUNK_TOKEN: ${{ secrets.COCOAPOD_PASSWORD_LOGIN }}
         run: |
-          pod trunk push Podspec/VietMap/VietMap.podspec --allow-warnings
+          pod trunk push VietMap.podspec --allow-warnings
